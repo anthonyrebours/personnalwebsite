@@ -5,7 +5,7 @@ output: html_document
 
 <div class="row">
 <div class="col-md-6">
-![](C:/Users/rebou/OneDrive/Bureau/Stats/R/Projets/personnal_website/moi.jpeg)
+![](moi.jpeg)
 
 [**LED Université Paris 8**](https://sites.google.com/site/up8led/)
 

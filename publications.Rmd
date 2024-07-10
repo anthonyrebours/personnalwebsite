@@ -9,10 +9,10 @@ title: "Publications"
 
 2024 "Land, Space or Cities: A History of 'Urban Economics' as a Field" (with Beatrice
 Cherrier) *in revision* \
-[[**SSRN**]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450141) [[**ONLINE APPENDIX**]](C:/Users/rebou/OneDrive/Bureau/Stats/R/Projets/urban_economics/presentation/online_appendix_urban.html)
+[[**SSRN**]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450141) [[**ONLINE APPENDIX**]](online_appendix_urban.html)
 
 2024 "History of IAFFE Presidents’ Trajectories and Cognitive Interactions" (with Rebeca Gomez Betancourt and Camila Orozco Espinel)\
-[**SSRN**] [[**ONLINE APPENDIX**]](C:/Users/rebou/OneDrive/Bureau/Stats/R/Projets/Feminist_Economics/presentations/Online_Appendix_FE.html)
+[**SSRN**] [[**ONLINE APPENDIX**]](Online_Appendix_FE.html)
 
 <br>
 
