@@ -1,0 +1,12 @@
+name: "personnal_website"
+navbar:
+  title: "Anthony Rebours"
+  type: inverse
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "Projects"
+      href: projects.html
+
+
+

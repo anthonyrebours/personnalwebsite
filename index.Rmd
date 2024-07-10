@@ -1,0 +1,19 @@
+---
+title: "Anthony Rebours"
+output: html_document
+---
+
+<div class="row">
+<div class="col-md-6">
+![](C:/Users/rebou/OneDrive/Bureau/Stats/R/Projets/personnal_website/moi.jpeg)
+
+[**LED Université Paris 8**](https://sites.google.com/site/up8led/)
+
+email: [**reboursanthony@hotmail.fr**](mailto: reboursanthony@hotmail.fr)
+</div>
+<div class="col-md-6">
+Jeune chercheur en histoire de la pensée économique, je travaille sur l'évolution des travaux des économistes en matière d'espace géographique, notamment sur les apports de champs de recherche tels que la science régionale, l'économie urbaine et la nouvelle économie géographique. Mes recherches portent plus précisément sur l'analyse de la structuration de la science économique en tant que discipline ainsi que ses relations avec le reste des sciences sociales notamment la géographie et les sciences de l'aménagement après 1945.
+
+A travers ces sujets je suis amené à explorer les travaux des différentes disciplines qui ont permis d'influencer la recherche d'économistes intéressés par le spatial. Pour cela je me suis également intéressé aux travaux d'historiens et de sociologues des sciences en particulier de ceux prenant en compte l'utilisation d'outils bibliométriques et d'analyse de réseaux.
+</div>
+</div>
