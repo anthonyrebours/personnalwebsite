@@ -1,19 +1,26 @@
 ---
 title: "Anthony Rebours"
 output: html_document
+
 ---
 
 <div class="row">
 <div class="col-md-6">
 ![](moi.jpeg)
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
 
-[**LED Université Paris 8**](https://sites.google.com/site/up8led/)
+[**Laboratoire d'Economie Dionysien (LED)**](https://sites.google.com/site/up8led/)\
+Université Paris 8
 
-email: [**reboursanthony@hotmail.fr**](mailto: reboursanthony@hotmail.fr)
+[`r fa(name = "envelope", prefer_type = "solid")` e-mail](mailto: reboursanthony@hotmail.fr)  \
+[`r fa(name = "github")` github](https://github.com/anthonyrebours) \
+[`r fa(name = "twitter")` twitter](https://twitter.com/rebours_anthony) 
 </div>
 <div class="col-md-6">
-Jeune chercheur en histoire de la pensée économique, je travaille sur l'évolution des travaux des économistes en matière d'espace géographique, notamment sur les apports de champs de recherche tels que la science régionale, l'économie urbaine et la nouvelle économie géographique. Mes recherches portent plus précisément sur l'analyse de la structuration de la science économique en tant que discipline ainsi que ses relations avec le reste des sciences sociales notamment la géographie et les sciences de l'aménagement après 1945.
+I am a young historian of economics. My research focuses on the structuring of economics as a scientific discipline and its relationships with other social sciences, notably geography and planning sciences, after 1945. I am more particularly interested in studying the evolution of fields such as regional science, urban economics and new economic geography. 
 
-A travers ces sujets je suis amené à explorer les travaux des différentes disciplines qui ont permis d'influencer la recherche d'économistes intéressés par le spatial. Pour cela je me suis également intéressé aux travaux d'historiens et de sociologues des sciences en particulier de ceux prenant en compte l'utilisation d'outils bibliométriques et d'analyse de réseaux.
+Through these topics, I am led to explore the works of various disciplines that have influenced the research of economists interested in spatial issues. In my work I also rely a lot on quantitative tools dedicated to the study of sciences (bibliometrics techniques and network analysis).
 </div>
 </div>

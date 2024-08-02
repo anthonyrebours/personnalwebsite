@@ -1,12 +1,16 @@
 name: "personnal_website"
 navbar:
   title: "Anthony Rebours"
-  type: inverse
   left:
-    - text: "Publications"
+    - text: "Papers/Talks"
       href: publications.html
-    - text: "Projects"
-      href: projects.html
-
+    - text: "Experiences"
+      href: Experiences.html
+output: 
+  html_document: 
+    theme: journal
+    toc_float: true
+    
+  
 
 
