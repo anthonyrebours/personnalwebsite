@@ -17,7 +17,7 @@ Université Paris 8
 [`r fa(name = "envelope", prefer_type = "solid")` e-mail](mailto: reboursanthony@hotmail.fr)  \
 [`r fa(name = "github")` github](https://github.com/anthonyrebours) \
 [`r fa(name = "twitter")` twitter](https://twitter.com/rebours_anthony) \
-[`r fa(name = "file-lines", prefer_type = "solid")` curriculum vitae](cv.html)
+[`r fa(name = "file-lines", prefer_type = "solid")` curriculum vitae](cv.pdf)
 </div>
 <div class="col-md-6">
 I am a young historian of economics. My research focuses on the structuring of economics as a scientific discipline and its relationships with other social sciences, notably geography and planning sciences, after 1945. I am more particularly interested in studying the evolution of fields such as regional science, urban economics and new economic geography. 
