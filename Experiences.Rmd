@@ -11,44 +11,46 @@ output: html_document
 <br>
 
 - **Oct. 2020 - Sep. 2022 -- Teaching Assistant** \
-Department of Economics, Université Paris 8 
+Economics Department, Université Paris 8   
 
 - **Sep. 2019 - May. 2020 -- Young Research Fellow** \
 [**Center of History of Political Economy (CHOPE)**](https://hope.econ.duke.edu/node/1753), Duke University  
  
 - **Aug. 2019 -- Research Assistant** \
 Institut National d'Etudes Démographiques (INED)\
-[**Project TOFLIT 18 « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »**](https://toflit18.hypotheses.org/603)
+[**Project TOFLIT 18**](https://toflit18.hypotheses.org/603) « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
 
 - **Jan.2019 - Jul. 2019 -- Young Invited Researcher** \
-[**Centre Interdisciplinaire de Recherche sur la Science et la Technologie (CIRST)**](https://cirst2.openum.ca/publications/notes-de-recherche/?person=6164), Université du Québec A Montréal (UQAM)\
+[**Centre Interdisciplinaire de Recherche sur la Science et la Technologie (CIRST)**](https://cirst2.openum.ca/publications/notes-de-recherche/?person=6164)\
+Université du Québec A Montréal (UQAM)\
 Local supervisor: [**Yves Gingras**](https://cirst.uqam.ca/chercheurs-chercheuses/gingras-yves/)
 
 - **Sep. 2018 - Dec. 2018 -- Teaching Assistant** \
-Department of Economics, Université Paris 8
+Economics Department, Université Paris 8
 
 - **Feb. 2018 -- Research Assistant** \
 Institut National d'Etudes Démographiques (INED)\
-Project TOFLIT 18 « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
+[**Project TOFLIT 18**](https://toflit18.hypotheses.org/603) « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
     
 - **Oct. 2017 - Jan. 2018 -- Young Invited Researcher** \
-Centre Interdisciplinaire de Recherche sur la Science et la Technologie (CIRST), Université du Québec A Montréal (UQAM)\
-Local supervisor: Yves Gingras
+[**Centre Interdisciplinaire de Recherche sur la Science et la Technologie (CIRST)**](https://cirst2.openum.ca/publications/notes-de-recherche/?person=6164)\
+Université du Québec A Montréal (UQAM)\
+Local supervisor: [**Yves Gingras**](https://cirst.uqam.ca/chercheurs-chercheuses/gingras-yves/)
 
 - **Jul. 2017 - Aug. 2017 -- Research Assistant** \
 Université Paris Dauphine\
-Project TOFLIT 18 « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
+[**Project TOFLIT 18**](https://toflit18.hypotheses.org/603) « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
 
 - **Jan. 2017 - Jun. 2017 -- Lecturer in History of Economic Thought** \
-Department of Economics, Université de Tours François Rabelais
+Economics Department, Université de Tours François Rabelais
 
 - **Jul. 2016 -- Research Assistant** \
 Institut National d’Etudes Démographiques (INED) \
-Project TOFLIT 18 « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
+[**Project TOFLIT 18**](https://toflit18.hypotheses.org/603) « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
 
 - **Jul. 2015 -- Research Assistant** \
 Institut National d’Etudes Démographiques (INED) \
-Project TOFLIT 18 « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
+[**Project TOFLIT 18**](https://toflit18.hypotheses.org/603) « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
 
 ***
 
