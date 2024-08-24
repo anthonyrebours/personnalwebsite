@@ -4,7 +4,8 @@ output: html_document
 ---
 
 <br> 
-<br>
+
+***
 
 ## Teaching and research experience
 

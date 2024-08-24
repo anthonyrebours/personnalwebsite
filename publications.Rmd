@@ -3,11 +3,12 @@ title: "Publications"
 ---
 
 <br>
-<br>
+
+***
 
 ## Research Articles
 
-- 2024 -- "Land, Space or Cities: A History of 'Urban Economics' as a Field" ([with Beatrice
+- 2024 -- "Land, Space or Cities: A History of 'Urban Economics' as a Field" (with [Beatrice
 Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
 [[**SSRN**]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450141) [[**ONLINE APPENDIX**]](online_appendix_urban.html)
 
@@ -34,7 +35,8 @@ Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
 
 ## Blog Posts
 
-- 2020 -- “Cities, Land and Space: A History of ‘Urban Economics’ As a Field” (with Béatrice Cherrier)\
+- 2020 -- “Cities, Land and Space: A History of ‘Urban Economics’ As a Field” (with [Beatrice
+Cherrier](https://beatricecherrier.wordpress.com/about/))\
 [[**POST**]](https://hscif.org/economists-in-the-city-cherrierrebours/)
 
 
@@ -69,7 +71,7 @@ Workshop of the [Society for the History of Recent Social Science (HISRESS)](htt
 Institution National d'Etudes Démographique (INED)
 
 
-- **May 2021 -- "Cities, Land and Space: A history of ‘Urban Economics’ as a field" (with Beatrice Cherrier)**\
+- **May 2021 -- "Cities, Land and Space: A history of ‘Urban Economics’ as a field" (with [with Beatrice Cherrier](https://beatricecherrier.wordpress.com/about/))**\
 Zoom Seminar of Max Planck Science Po Center (MaxPo)
 
 
@@ -100,7 +102,12 @@ Science Po Lille
 
 - **May 2019 -- "The Evolution of the Relationships Between Economy and Geography (1980-2015):
 A Bibliometric Study"**\
-Workshop for Young Scholars "The Uses of Scientometrics for the History of Social Sciences" (co-organised with Alexandre Truc and Loïc Charles)\
+Workshop for Young Scholars "The Uses of Scientometrics for the History of Social Sciences" (co-organised with [Alexandre Truc](https://sites.google.com/view/alexandre-truc/home-and-contact) and [Loïc Charles](https://www.ined.fr/fr/recherche/chercheurs/Charles+Lo%C3%AFc))\
+Université Paris 8
+
+- **December 2018 -- "The Evolution of the Relationships Between Economy and Geography (1980-2015):
+A Bibliometric Study"**\
+[Séminaire du LED](https://sites.google.com/site/up8led/activities/seminars/archives)\
 Université Paris 8
 
 - **June 2018 -- "The Evolution of the Relationships Between Economy and Geography (1980-2015):

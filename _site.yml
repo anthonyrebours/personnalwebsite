@@ -1,6 +1,8 @@
 name: "personnal_website"
 navbar:
+
   title: "Anthony Rebours"
+  
   right:
     - text: "Papers/Talks"
       href: publications.html
@@ -8,6 +10,7 @@ navbar:
       href: Experiences.html
     - icon: fa-github
       href: https://github.com/anthonyrebours
+      
 output: 
   html_document: 
     theme: journal

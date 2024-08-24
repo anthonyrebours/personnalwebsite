@@ -293,12 +293,11 @@ href="cv.pdf"><svg aria-hidden="true" role="img" viewBox="0 0 384 512" style="he
 curriculum vitae</a></p>
 </div>
 <div class="col-md-6">
-<p>I am a young historian of economics. My research focuses on the
-structuring of economics as a scientific discipline and its
-relationships with other social sciences, notably geography and planning
-sciences, after 1945. I am more particularly interested in studying the
-evolution of fields such as regional science, urban economics and new
-economic geography.</p>
+<p>I am a historian of economics. My research focuses on the structuring
+of economics as a scientific discipline and its relationships with other
+social sciences, notably geography and planning sciences, after 1945. I
+am more particularly interested in studying the evolution of fields such
+as regional science, urban economics and new economic geography.</p>
 <p>Through these topics, I am led to explore the works of various
 disciplines that have influenced the research of economists interested
 in spatial issues. In my work I also rely a lot on quantitative tools
@@ -312,7 +311,7 @@ analysis).</p>
     <style>
     
       .band.full {
-        position: ;
+        position: relative;
         margin-bottom: -91px;
       }
               
@@ -321,13 +320,6 @@ analysis).</p>
         max-width: 1140px;
         z-index: 2;
       }
-
-      #homeContent #pageContent {
-  position: relative;
-  z-index: 1;
-  min-height: 100%;
-  margin-bottom: -91px;  /* height of footer */
-}
 
       #rStudioFooter {
         position: relative;
@@ -345,7 +337,7 @@ analysis).</p>
         color:#e74944;
 
         font-weight: 300;
-        font-size: 20px;
+        font-size: 16px;
 
         line-height: 25px;
       }
@@ -365,36 +357,39 @@ analysis).</p>
       }
       
       #rStudioFooter .bandContent #logos {
-  flex-shrink: 1;
-}
+        flex-shrink: 1;
+      }
 
-#rStudioFooter .bandContent .footerLogo {
-  display: inline-block;
-  height: 25px;
-  width: 25px;
+      #rStudioFooter .bandContent .footerLogo {
+        display: inline-block;
+        height: 25px;
+        width: 25px;
 
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  background-position: center center;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        background-position: center center;
 
-  margin: 0 8px;
-}
+        margin: 0 8px;
+      }
+      
+      a:link{
+        text-decoration: underline;
+      }
 
     </style>
   </head>
-    </div> <!-- articleBandContent -->
-</div> <!-- pageContent -->
-  <div id="rStudioFooter" class="band full">
-  <div class="bandContent">
-   <div id="copyright">Licence CC-BY-SA <i class="fa-brands fa-creative-commons"></i> 
-   <i class="fa-brands fa-creative-commons-by"></i>
-   <i class="fa-brands fa-creative-commons-sa"></i>
-   </div>
-    <div id="logos" style="font-size: 15px">Made with Bootstrap theme using Rmarkdown
-  </div>
-  </div>
-  </div>
-  </body>
+  
+  </div> <!-- pageContent -->
+    <div id="rStudioFooter" class="band full">
+    <div class="bandContent">
+      <div id="copyright">Made with <a href="https://rmarkdown.rstudio.com/">R Markdown</a>, theme Journal by <a href="https://bootswatch.com/3/">Bootswatch</a> </div>
+      <div id="logos"> <a href="https://creativecommons.org/licenses/by-sa/4.0/">Licence CC-BY-SA</a> <i class="fa-brands fa-creative-commons"></i> 
+      <i class="fa-brands fa-creative-commons-by"></i>
+      <i class="fa-brands fa-creative-commons-sa"></i>
+    </div>
+    </div>
+    </div>
+  
 </html>
 
 
