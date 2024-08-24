@@ -1,7 +1,6 @@
 ---
 title: "Anthony Rebours"
 output: html_document
-
 ---
 
 <div class="row">
@@ -27,3 +26,5 @@ Through these topics, I am led to explore the works of various disciplines that 
 </div>
 
 <br><br>
+
+
