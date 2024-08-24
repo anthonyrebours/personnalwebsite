@@ -244,23 +244,18 @@ $(document).ready(function () {
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="publications.html">Papers/Talks</a>
 </li>
 <li>
   <a href="Experiences.html">Experiences</a>
 </li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li>
+<li>
   <a href="https://github.com/anthonyrebours">
     <span class="fa fa-github"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://twitter.com/rebours_anthony">
-    <span class="fa fa-twitter"></span>
      
   </a>
 </li>
@@ -416,6 +411,95 @@ Loyola University Chicago</p></li>
 </ul>
 </div>
 
+<html>
+  <head>
+    <style>
+    
+      .band.full {
+        position: ;
+        margin-bottom: -91px;
+      }
+              
+      .bandContent, {
+        margin: 0 auto;
+        max-width: 1140px;
+        z-index: 2;
+      }
+
+      #homeContent #pageContent {
+  position: relative;
+  z-index: 1;
+  min-height: 100%;
+  margin-bottom: -91px;  /* height of footer */
+}
+
+      #rStudioFooter {
+        position: relative;
+        z-index: 2;
+
+        box-sizing: border-box;
+        height: 91px;
+      }
+      
+      #rStudioFooter.band {
+
+        background-color: #eeeeee;
+        padding: 30px 5%;
+
+        color:#e74944;
+
+        font-weight: 300;
+        font-size: 20px;
+
+        line-height: 25px;
+      }
+      
+      #rStudioFooter .bandContent {
+        color: #e74944;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        line-height: 20px;
+      }
+      
+      #rStudioFooter .bandContent #copyright {
+        flex-shrink: 5;
+      }
+      
+      #rStudioFooter .bandContent #logos {
+  flex-shrink: 1;
+}
+
+#rStudioFooter .bandContent .footerLogo {
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center center;
+
+  margin: 0 8px;
+}
+
+    </style>
+  </head>
+    </div> <!-- articleBandContent -->
+</div> <!-- pageContent -->
+  <div id="rStudioFooter" class="band full">
+  <div class="bandContent">
+   <div id="copyright">Licence CC-BY-SA <i class="fa-brands fa-creative-commons"></i> 
+   <i class="fa-brands fa-creative-commons-by"></i>
+   <i class="fa-brands fa-creative-commons-sa"></i>
+   </div>
+    <div id="logos" style="font-size: 15px">Made with Bootstrap theme using Rmarkdown
+  </div>
+  </div>
+  </div>
+  </body>
+</html>
 
 
 
