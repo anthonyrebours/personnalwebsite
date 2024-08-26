@@ -4,9 +4,11 @@ title: "Publications"
 
 <br>
 
-***
+<div class="mycontent">
 
 ## Research Articles
+
+***
 
 - 2024 -- "Land, Space or Cities: A History of 'Urban Economics' as a Field" (with [Beatrice
 Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
@@ -15,9 +17,11 @@ Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
 - 2024 -- "History of IAFFE Presidents’ Trajectories and Cognitive Interactions" (with [Rebeca Gomez Betancourt](https://triangle.ens-lyon.fr/spip.php?article1356) and [Camila Orozco Espinel](https://univ-reims.academia.edu/CamilaOrozcoEspinel) )\
 [**SSRN**] [[**ONLINE APPENDIX**]](Online_Appendix_FE.html)
 
-***
+<br>
 
 ## Working Articles
+
+***
 
 - 2024 -- "The Reception of Dixit-Stiglitz Monopolistic Competition Model"\
 [**DRAFT**] [**ONLINE APPENDIX**]
@@ -31,9 +35,11 @@ Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
 - 2020 -- "‘New Economic Geography’ and The Evolution of the Relationships Between Economics and Geography (1980-2015)"\
 [**SSRN**]
 
-***
+<br>
 
 ## Blog Posts
+
+***
 
 - 2020 -- “Cities, Land and Space: A History of ‘Urban Economics’ As a Field” (with [Beatrice
 Cherrier](https://beatricecherrier.wordpress.com/about/))\
@@ -43,9 +49,11 @@ Cherrier](https://beatricecherrier.wordpress.com/about/))\
 - 2020 -- "The institutionalization of Regional Science in the Shadow of Economics”\
 [[**POST**]](https://hscif.org/economists-in-the-city-rebours/)
 
-***
+<br>
 
 ## Presentations
+
+***
 
 - **June 2023 -- "Do Feminists Economists Form a Community of Scholars?" (with Rebeca Gomez Betancourt and Camila Orozco Espinel)**\
 Presented in distance [26th Annual Conference of the European Society for the History of Economic Thought (ESHET)](https://www.eshet-conference.net/liege/ed2023/program/)
@@ -115,4 +123,7 @@ A Bibliometric Study"**\
 Young Scholar presentation for the [45th Annual Conference of History of Economic Society (HES)](https://historyofeconomics.org/wp-content/uploads/2018/06/2018-Conference-Program-finalBW.pdf)\
 Loyola University Chicago
 
-<br><br>
+<br>
+
+</div>
+

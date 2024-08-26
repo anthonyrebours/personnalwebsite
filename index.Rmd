@@ -3,6 +3,11 @@ title: "Anthony Rebours"
 output: html_document
 ---
 
+<br>
+
+<div class="mycontent">
+
+
 <div class="row">
 <div class="col-md-6">
 ![](moi.jpeg)
@@ -25,6 +30,9 @@ Through these topics, I am led to explore the works of various disciplines that 
 </div>
 </div>
 
-<br><br>
+<br>
+
+</div>
+
 
 

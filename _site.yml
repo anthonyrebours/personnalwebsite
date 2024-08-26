@@ -4,7 +4,6 @@ name: "personnal_website"
 navbar:
 
   title: "Anthony Rebours"
-  
   right:
     - text: "Papers/Talks"
       href: publications.html
@@ -18,10 +17,13 @@ navbar:
 output: 
 
   html_document: 
+    
     theme: journal
-    type: inverse
+    
     include: 
       after_body: footer.html
+    
+    css: styles.css
     
     
   

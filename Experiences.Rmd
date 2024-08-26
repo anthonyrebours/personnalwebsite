@@ -3,13 +3,13 @@ title: "Past Experiences"
 output: html_document
 ---
 
-<br> 
+<div class="mycontent">
 
-***
+<br>
 
 ## Teaching and research experience
 
-<br>
+***
 
 - **Oct. 2020 - Sep. 2022 -- Teaching Assistant** \
 Economics Department, Université Paris 8   
@@ -53,11 +53,11 @@ Institut National d’Etudes Démographiques (INED) \
 Institut National d’Etudes Démographiques (INED) \
 [**Project TOFLIT 18**](https://toflit18.hypotheses.org/603) « Transformations of the French Economy through the Lens of International Trade, 1716-1821 »
 
-***
+<br>
 
 ## Grants 
 
-<br>
+***
 
 - 2019-2020 -- Final Year Fellowship from the Center for the History of Political Economy (CHOPE) at Duke University
 
@@ -67,4 +67,6 @@ Institut National d’Etudes Démographiques (INED) \
 
 - 2017 -- Grant for international mobility from the Office Franco-Québecois pour la Jeunesse (OFQJ)
 
-<br><br>
+<br>
+
+</div>
