@@ -14,7 +14,7 @@
       }
 
       h1 {
-        background-color: #f0f0f0;
+        background-color: #f8f9fa;
         padding-top: 60px;
         padding-bottom:65px; 
         margin: 0;
@@ -44,10 +44,10 @@
       
       #rStudioFooter.band {
 
-        background-color: #f0f0f0;
+        background-color: #1d2769;
         padding: 30px 5%;
 
-        color:#777777;
+        color:#fff;
 
         font-weight: 300;
         font-size: 14px;
@@ -56,7 +56,7 @@
       }
       
       #rStudioFooter .bandContent {
-        color: #777777;
+        color: #fff;
 
         display: flex;
         justify-content: space-between;

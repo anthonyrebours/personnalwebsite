@@ -15,8 +15,9 @@ output: html_document
 library(fontawesome)
 ```
 
-[**Laboratoire d'Economie Dionysien (LED)**](https://sites.google.com/site/up8led/)\
-Université Paris 8
+
+[**Sorbonne université, Projet SOUND**](https://https://www.sorbonne-universite.fr/pour-un-engagement-renforce-au-service-de-la-societe)\
+Bibliometric analyst
 
 [`r fa(name = "envelope", prefer_type = "solid")` e-mail](mailto: reboursanthony@hotmail.fr)  \
 [`r fa(name = "github")` github](https://github.com/anthonyrebours) \
