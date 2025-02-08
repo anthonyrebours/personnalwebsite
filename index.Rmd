@@ -16,18 +16,15 @@ library(fontawesome)
 ```
 
 
-[**Sorbonne université, Projet SOUND**](https://https://www.sorbonne-universite.fr/pour-un-engagement-renforce-au-service-de-la-societe)\
-Bibliometric analyst
-
-[`r fa(name = "envelope", prefer_type = "solid")` e-mail](mailto: reboursanthony@hotmail.fr)  \
-[`r fa(name = "github")` github](https://github.com/anthonyrebours) \
-[`r fa(name = "twitter")` twitter](https://twitter.com/rebours_anthony) \
-[`r fa(name = "file-lines", prefer_type = "solid")` curriculum vitae](cv.pdf)
+<font size="8"> [`r fa(name = "envelope", prefer_type = "solid")`](mailto: reboursanthony@hotmail.fr) </font>
+<font size="8"> [`r fa(name = "github")`](https://github.com/anthonyrebours) </font> 
+<font size="8"> [`r fa(name = "twitter")`](https://twitter.com/rebours_anthony) </font>
+<font size="8"> [`r fa(name = "file-lines", prefer_type = "solid")`](cv.pdf) </font>
 </div>
 <div class="col-md-6">
-I am a historian of economics. My research focuses on the structuring of economics as a scientific discipline and its relationships with other social sciences, notably geography and planning sciences, after 1945. I am more particularly interested in studying the evolution of fields such as regional science, urban economics and new economic geography. 
-
-Through these topics, I am led to explore the works of various disciplines that have influenced the research of economists interested in spatial issues. In my work I also rely a lot on quantitative tools dedicated to the study of sciences (bibliometrics techniques and network analysis).
+<font size="5"> **Anthony Rebours** </font>\
+<font size="4"> Bibliometric analyst </font>\
+<font size="4"> [Sorbonne Université](https://www.sorbonne-universite.fr)</font>\
 </div>
 </div>
 
