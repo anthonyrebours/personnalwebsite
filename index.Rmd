@@ -3,6 +3,10 @@ title: "Anthony Rebours"
 output: html_document
 ---
 
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
 <br>
 
 <div class="mycontent">
@@ -10,21 +14,20 @@ output: html_document
 
 <div class="row">
 <div class="col-md-6">
-![](moi.jpeg)
-```{r message=FALSE, warning=FALSE, include=FALSE}
-library(fontawesome)
-```
+<font size="4"> **Bibliometric analyst at [Sorbonne Université](https://www.sorbonne-universite.fr)** </font>\
+<font size="4"> France  </font>\
 
+My work within the scientometric unit focuses on analyzing the research outputs using quantitative data. 
 
-<font size="8"> [`r fa(name = "envelope", prefer_type = "solid")`](mailto: reboursanthony@hotmail.fr) </font>
-<font size="8"> [`r fa(name = "github")`](https://github.com/anthonyrebours) </font> 
-<font size="8"> [`r fa(name = "twitter")`](https://twitter.com/rebours_anthony) </font>
-<font size="8"> [`r fa(name = "file-lines", prefer_type = "solid")`](cv.pdf) </font>
 </div>
 <div class="col-md-6">
-<font size="5"> **Anthony Rebours** </font>\
-<font size="4"> Bibliometric analyst </font>\
-<font size="4"> [Sorbonne Université](https://www.sorbonne-universite.fr)</font>\
+
+![](moi.jpeg)
+
+<font size="6"> [`r fa(name = "envelope", prefer_type = "solid")`](mailto: reboursanthony@hotmail.fr) </font>
+<font size="6"> [`r fa(name = "github")`](https://github.com/anthonyrebours) </font> 
+<font size="6"> [`r fa(name = "twitter")`](https://twitter.com/rebours_anthony) </font>
+<font size="6"> [`r fa(name = "file-lines", prefer_type = "solid")`](cv.pdf) </font>
 </div>
 </div>
 

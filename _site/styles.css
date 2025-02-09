@@ -6,7 +6,7 @@
       }
 
       .mycontent{
-        max-width: 900px;
+        max-width: 1200px;
         margin-left: auto;
         margin-right: auto;
         font-size: 100%;
@@ -25,7 +25,7 @@
 
       .band.full {
         position: relative;
-        margin-bottom: -91px;
+        margin-bottom: -100%;
       }
               
       .bandContent, {
@@ -85,6 +85,4 @@
         margin: 0 8px;
       }
       
-      a:link{
-        text-decoration: underline;
-      }
+      
