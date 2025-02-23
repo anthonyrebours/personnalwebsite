@@ -17,10 +17,8 @@ navbar:
       
 output: 
 
-  html_document: 
-    
+  html_document:
     theme: cerulean
-    
     include: 
       after_body: footer.html
     

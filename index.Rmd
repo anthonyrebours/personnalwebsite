@@ -14,24 +14,27 @@ library(fontawesome)
 
 <div class="row">
 <div class="col-md-6">
-<font size="4"> **Bibliometric analyst at [Sorbonne Université](https://www.sorbonne-universite.fr)** </font>\
-<font size="4"> France  </font>\
 
+<font size="4">Bibliometric analyst\
+[Bibliothèque de Sorbonne Université](https://www.sorbonne-universite.fr), France </font>\
 My work within the scientometric unit focuses on analyzing the research outputs using quantitative data. 
 
 </div>
-<div class="col-md-6">
 
+<div class="col-md-6">
+<div style="width: 100%; height: 600px; border-left: solid 1px rgb(55, 108, 152)">
+<center>
 ![](moi.jpeg)
 
 <font size="6"> [`r fa(name = "envelope", prefer_type = "solid")`](mailto: reboursanthony@hotmail.fr) </font>
 <font size="6"> [`r fa(name = "github")`](https://github.com/anthonyrebours) </font> 
 <font size="6"> [`r fa(name = "twitter")`](https://twitter.com/rebours_anthony) </font>
-<font size="6"> [`r fa(name = "file-lines", prefer_type = "solid")`](cv.pdf) </font>
-</div>
+<font size="6; "> [<b>CV</b>](cv.pdf) </font>
+</center>
 </div>
 
-<br>
+</div>
+</div>
 
 </div>
 

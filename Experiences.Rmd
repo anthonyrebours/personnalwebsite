@@ -9,7 +9,7 @@ output: html_document
 
 ## Teaching and research experience
 
-***
+<hr style="height: 1px;background-color: rgb(55, 108, 152)">
 
 - **Oct. 2020 - Sep. 2022 -- Teaching Assistant** \
 Economics Department, Université Paris 8   
@@ -57,7 +57,7 @@ Institut National d’Etudes Démographiques (INED) \
 
 ## Grants 
 
-***
+<hr style="height: 1px;background-color: rgb(55, 108, 152)">
 
 - 2019-2020 -- Final Year Fellowship from the Center for the History of Political Economy (CHOPE) at Duke University
 
