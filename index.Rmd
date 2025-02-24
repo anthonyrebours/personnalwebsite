@@ -15,9 +15,9 @@ library(fontawesome)
 <div class="row">
 <div class="col-md-6">
 
-<font size="4">Bibliometric analyst\
-[Bibliothèque de Sorbonne Université](https://www.sorbonne-universite.fr), France </font>\
-My work within the scientometric unit focuses on analyzing the research outputs using quantitative data. 
+<font size="4">Bibliometric analyst</font>\
+Departement of Open Access\
+[Bibliothèque de Sorbonne Université](https://www.sorbonne-universite.fr), France
 
 </div>
 
