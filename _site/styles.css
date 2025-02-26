@@ -31,8 +31,9 @@
         color: rgb(49, 126, 172);
       }
       
+      .navbar-default .navbar-nav>li>a,
       a.navbar-brand {
-        color: #ffffffab !important;
+        color: lightgrey !important;
       }
       
       .navbar-default .navbar-nav>li>a:hover, 
@@ -55,31 +56,23 @@
       #rStudioFooter {
         position: relative;
         z-index: 2;
-
         box-sizing: border-box;
         height: 91px;
       }
       
       #rStudioFooter.band {
-
         background-color: rgb(35, 68, 96);
         padding: 30px 5%;
-
-        color:#fff;
-
         font-weight: 300;
         font-size: 14px;
-
         line-height: 25px;
       }
       
       #rStudioFooter .bandContent {
         color: #fff;
-
         display: flex;
         justify-content: space-between;
         align-items: center;
-
         line-height: 35px;
       }
       
@@ -95,11 +88,9 @@
         display: inline-block;
         height: 25px;
         width: 25px;
-
         background-repeat: no-repeat;
         background-size: 100% auto;
         background-position: center center;
-
         margin: 0 8px;
       }
       

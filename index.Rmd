@@ -26,10 +26,10 @@ Departement of Open Access\
 <center>
 ![](moi.jpeg)
 
-<font size="6"> [`r fa(name = "envelope", prefer_type = "solid")`](mailto: reboursanthony@hotmail.fr) </font>
-<font size="6"> [`r fa(name = "github")`](https://github.com/anthonyrebours) </font> 
-<font size="6"> [`r fa(name = "twitter")`](https://twitter.com/rebours_anthony) </font>
-<font size="6; "> [<b>CV</b>](cv.pdf) </font>
+<font size="7"> [`r fa(name = "envelope", prefer_type = "solid")`](mailto: reboursanthony@hotmail.fr) </font>
+<font size="7"> [`r fa(name = "github")`](https://github.com/anthonyrebours) </font> 
+<font size="7"> [`r fa(name = "twitter")`](https://twitter.com/rebours_anthony) </font>
+<font size="7; "> [<b>CV</b>](cv.pdf) </font>
 </center>
 </div>
 
