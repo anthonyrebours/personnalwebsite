@@ -29,7 +29,23 @@
 
       a:hover {
         color: rgb(49, 126, 172);
+        text-decoration: underline;
       }
+      
+      .about-link {
+        border: none;
+        font-size: 27pt;
+        padding: 5pt !important;
+        border-radius: 6px;
+        color: #2c3e50;
+      }
+      
+      .about-link:hover {
+        background-color: #2c3e50;
+        color: #eeeeee;
+        text-decoration: none;
+      }
+      
       
       .navbar-default .navbar-nav>li>a,
       a.navbar-brand {
@@ -61,7 +77,7 @@
       }
       
       #rStudioFooter.band {
-        background-color: rgb(35, 68, 96);
+        background-color: #2c3e50;
         padding: 30px 5%;
         font-weight: 300;
         font-size: 14px;
