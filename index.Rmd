@@ -1,5 +1,4 @@
 ---
-title: "Anthony Rebours"
 output: html_document
 ---
 
@@ -15,7 +14,8 @@ library(fontawesome)
 <div class="row">
 <div class="col-md-6">
 
-<font size="4">Bibliometric analyst</font>\
+<font size=20px>Anthony Rebours</font>\
+<font size="4">**Bibliometric analyst**</font>\
 Departement of Open Access\
 [Bibliothèque de Sorbonne Université](https://www.sorbonne-universite.fr), France
 
