@@ -32,6 +32,14 @@
         text-decoration: underline;
       }
       
+      .button {
+        border: #2c3e50;
+        font-size: 27pt;
+        padding: 5pt !important;
+        border-radius: 6px;
+        color: #2c3e50;
+      }
+      
       .about-link {
         border: none;
         font-size: 27pt;

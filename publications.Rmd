@@ -12,12 +12,20 @@ title: "Publications"
 
 - 2024 -- "Land, Space or Cities: A History of 'Urban Economics' as a Field" (with [Beatrice
 Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
-<button type="button" class="btn btn-primary btn-sm"> [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450141) </button>
-<button type="button" class="btn btn-primary btn-sm"> [**ONLINE APPENDIX**](online_appendix_urban.html) </button>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450141" class="btn btn-primary btn-sm"> 
+**SSRN**
+</a>
+<a href="online_appendix_urban.html" class="btn btn-primary btn-sm"> 
+**ONLINE APPENDIX** 
+</a>
 
 - 2024 -- "History of IAFFE Presidents’ Trajectories and Cognitive Interactions" (with [Rebeca Gomez Betancourt](https://triangle.ens-lyon.fr/spip.php?article1356) and [Camila Orozco Espinel](https://univ-reims.academia.edu/CamilaOrozcoEspinel) )\
-<button type="button" class="btn btn-dark btn-sm"> **SSRN** </button> 
-<button type="button" class="btn btn-primary btn-sm"> [**ONLINE APPENDIX**](Online_Appendix_FE.html) </button>
+<a class="btn btn-primary disabled btn-sm"> 
+**SSRN** 
+</a> 
+<a href="Online_Appendix_FE.html" class="btn btn-primary btn-sm"> 
+**ONLINE APPENDIX**
+</a>
 
 <br>
 
@@ -26,18 +34,30 @@ Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
 <hr style="height: 1px;background-color: #2c3e50">
 
 - 2024 -- "The Reception of Dixit-Stiglitz Monopolistic Competition Model"\
-<button type="button" class="btn btn-dark btn-sm"> **DRAFT** </button> 
-<button type="button" class="btn btn-dark btn-sm"> **ONLINE APPENDIX** </button>
+<a class="btn btn-primary disabled btn-sm">
+**DRAFT** 
+</a> 
+<a class="btn btn-primary disabled btn-sm">
+**ONLINE APPENDIX**
+</a>
 
 - 2023 -- "The Diffusion of Monocentric City Models of Land Use: How AMM Became Mainstream"\
-<button type="button" class="btn btn-dark btn-sm"> **DRAFT** </button>
+<a class="btn btn-primary disabled btn-sm">
+**DRAFT** 
+</a>
 
 - 2022 -- "In Research of a Disciplinary Identity: The Institutionalization of Regional Science"\
-<button type="button" class="btn btn-dark btn-sm"> **DRAFT** </button>
-<button type="button" class="btn btn-dark btn-sm"> **ONLINE APPENDIX** </button>
+<a class="btn btn-primary disabled btn-sm"> 
+**DRAFT**
+</a>
+<a class="btn btn-primary disabled btn-sm">
+**ONLINE APPENDIX**
+</a>
 
 - 2020 -- "‘New Economic Geography’ and The Evolution of the Relationships Between Economics and Geography (1980-2015)"\
-<button type="button" class="btn btn-dark btn-sm"> **SSRN** </button>
+<a class="btn btn-primary disabled btn-sm"> 
+**SSRN** 
+</a>
 
 <br>
 
@@ -47,11 +67,14 @@ Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
 
 - 2020 -- “Cities, Land and Space: A History of ‘Urban Economics’ As a Field” (with [Beatrice
 Cherrier](https://beatricecherrier.wordpress.com/about/))\
-<button type="button" class="btn btn-primary btn-sm"> [**POST**](https://hscif.org/economists-in-the-city-cherrierrebours/) </button>
+<a href="https://hscif.org/economists-in-the-city-cherrierrebours/" class="btn btn-primary btn-sm"> 
+**POST**
+</a>
 
 
 - 2020 -- "The institutionalization of Regional Science in the Shadow of Economics”\
-<button type="button" class="btn btn-primary btn-sm"> [**POST**](https://hscif.org/economists-in-the-city-rebours/) </button>
+<a href="https://hscif.org/economists-in-the-city-rebours/" class="btn btn-primary btn-sm"> **POST**
+</a>
 
 <br>
 
