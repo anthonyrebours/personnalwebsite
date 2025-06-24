@@ -10,8 +10,7 @@ title: "Publications"
 
 <hr style="height: 1px;background-color: #2c3e50">
 
-- 2024 -- "Land, Space or Cities: A History of 'Urban Economics' as a Field" (with [Beatrice
-Cherrier](https://beatricecherrier.wordpress.com/about/)) *in revision* \
+- 2024 -- "Land, Space or Cities: A History of 'Urban Economics' as a Field" (with {{< kbd Beatrice Cherrier >}}(https://beatricecherrier.wordpress.com/about/)) *in revision* \
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450141" class="btn btn-primary btn-sm"> 
 **SSRN**
 </a>
